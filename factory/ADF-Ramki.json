@@ -1,0 +1,9 @@
+{
+	"name": "ADF-Ramki",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8cb24da-ee22-4ae2-b537-edf484f334a8",
+		"tenantId": "55c463ee-ff4f-4377-a254-deb4de64070e"
+	}
+}
